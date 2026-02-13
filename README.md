@@ -1,6 +1,6 @@
 # 🚲 Pedala Mosaico - Gestão de Aluguéis
 
-Sistema administrativo interno desenvolvido para a **Pedala Mosaico**, focado no controle de frota, cadastro de clientes e automação de processos para locação de bicicletas. O projeto prioriza a usabilidade em Desktop para o gerenciamento do balcão e busca de clientes antigos.
+Sistema administrativo interno desenvolvido para a **Pedala Mosaico**, focado no controle de frota, cadastro de clientes e automação de processos para locação de bicicletas.
 
 ## 🎨 Identidade Visual (Baseada na Logo)
 As cores do sistema foram extraídas diretamente da identidade visual da empresa:
